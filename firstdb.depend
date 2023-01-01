@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672579861 source:e:\c++\firstdb\main.cpp
+	<iostream>
+	<mysql.h>
+	<windows.h>
+
